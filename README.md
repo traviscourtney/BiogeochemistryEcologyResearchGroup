@@ -1,1 +1,3 @@
 # BiogeochemistryEcologyResearchGroup
+
+This is the source code used to compile the www.theberglab.com lab website. The website uses the open source Hugo Apéro theme, which you can download directly from the theme's webpage or create a fork this repository to edit and compile into your own webpage. Please see the instructions posted on the Hugo Apéro theme webpage for further information on creating a site using Hugo Apéro, RStudio, GitHub, and Netlify: https://hugo-apero-docs.netlify.app/
