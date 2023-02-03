@@ -92,7 +92,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "user" 
       icon_pack = "fas"
-      url       = "http://www.traviscourtney.com/download/traviscourtneycv.pdf"
+      url       = "https://github.com/traviscourtney/BiogeochemistryEcologyResearchGroup/raw/main/content/contact/TravisCourtneyCV.pdf"
   [[params.social]]
       icon      = "newspaper" 
       icon_pack = "far"
