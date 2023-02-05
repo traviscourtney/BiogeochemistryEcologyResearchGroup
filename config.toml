@@ -1,4 +1,4 @@
-baseURL = "https://traviscourtney.netlify.app/"
+baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Biogeochemistry + Ecology Research Group"
