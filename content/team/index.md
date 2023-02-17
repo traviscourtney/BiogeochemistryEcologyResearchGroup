@@ -4,7 +4,7 @@ featured: true
 layout: single
 ---
 <div style="text-align: center;">
-<img src="TravisCourtney.jpg" width="400">
+<img src="TravisCourtney.png" width="400">
 
 ### Dr. Travis Courtney
 ####  (he/him/his)
@@ -16,7 +16,7 @@ Dr. Courtney earned his B.S. in Geology and Environmental Science from the Unive
 
 ---
 <div style="text-align: center;">
-<img src="MarthaRicaurte.jpg" width="400">
+<img src="MarthaRicaurte.png" width="400">
 
 ### Dr. Martha Ricaurte
 
@@ -29,7 +29,7 @@ Dr. Ricaurte earned a PhD from the Univeristy of Puerto Rico Mayagüez and is cu
 
 ---
 <div style="text-align: center;">
-<img src="YvetteAriasDelfi.jpeg" width="400">
+<img src="YvetteAriasDelfi.png" width="400">
 
 
 ### Yvette Arias Delfi
@@ -46,7 +46,7 @@ Arias Delfi is interested in the role of sea cucumbers for the organic and inorg
 ---
 <div style="text-align: center;">
 
-<img src="LeiraCentenoMejias.jpg" width="400">
+<img src="LeiraCentenoMejias.png" width="400">
 
 
 ### Leira Centeno Mejías
@@ -62,7 +62,7 @@ Centeno Mejías is currently monitoring seawater outflows of the EcoEléctrica p
 
 ---
 <div style="text-align: center;">
-<img src="CatherineHernandezRodriguez.jpg" width="400">
+<img src="CatherineHernandezRodriguez.png" width="400">
 
 ### Catherine Hernández Rodriguez
 
@@ -78,7 +78,7 @@ Hernández Rodriguez is quantifying seagrass metabolism to better understand ‘
 ---
 <div style="text-align: center;">
 
-<img src="CarlaMejiasRivera.jpeg" width="400">
+<img src="CarlaMejiasRivera.png" width="400">
 
 ### Carla Mejías Rivera
 
@@ -108,7 +108,7 @@ Luquis Ramos is currently investigating the role of Diadema sea urchin on coral 
 
 ---
 <div style="text-align: center;">
-<img src="JuanitaCarbelleiraMartinez.jpg" width="400">
+<img src="JuanitaCarbelleiraMartinez.png" width="400">
 
 ### Juanita Carballeira Martinez
 
@@ -123,7 +123,7 @@ Carbelleira Martinez is currently assisting with monitoring seawater outflows of
 
 ---
 <div style="text-align: center;">
-<img src="JoseMartinezOrtiz.PNG" width="400">
+<img src="JoseMartinezOrtiz.png" width="400">
 
 ### Jose Martinez Ortiz
 
