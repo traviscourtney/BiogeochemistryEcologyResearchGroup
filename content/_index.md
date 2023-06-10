@@ -8,9 +8,8 @@ images:
 - img/elkhorn.jpg
 show_action_link: false
 show_social_links: true
-subtitle: Biogeochemistry + Ecology Research Group
 text_align_left: false
-title: BERG
+title: Biogeochemistry & Ecology Research Group
 type: home
 ---
 
