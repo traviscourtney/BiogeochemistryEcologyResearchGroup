@@ -107,7 +107,7 @@ Carbelleira Martinez is currently assisting with monitoring seawater outflows of
 
 ---
 <div style="text-align: center;">
-<img src="JoseMartinezOrtiz.png" width="400">
+<img src="JoseMartinezOrtiz.PNG" width="400">
 
 ### Jose Martinez Ortiz
 
