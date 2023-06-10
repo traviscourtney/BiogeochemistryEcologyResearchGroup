@@ -29,22 +29,6 @@ Dr. Ricaurte earned a PhD from the Univeristy of Puerto Rico Mayagüez and is cu
 
 ---
 <div style="text-align: center;">
-<img src="YvetteAriasDelfi.png" width="400">
-
-
-### Yvette Arias Delfi
-
-####  (she/her/hers)
-
-#### MS Student
-
-#### yvette.arias@upr.edu
-</div>
-
-Arias Delfi is interested in the role of sea cucumbers for the organic and inorganic carbon cycling of coral reef ecosystems.
-
----
-<div style="text-align: center;">
 
 <img src="LeiraCentenoMejias.png" width="400">
 
@@ -58,7 +42,7 @@ Arias Delfi is interested in the role of sea cucumbers for the organic and inorg
 #### leira.centeno@upr.edu
 </div>
 
-Centeno Mejías is currently monitoring seawater outflows of the EcoEléctrica power plant in Bahía de Guayanilla, PR for regulatory compliance as part of a project-based MS through coordinating field efforts, organizing data, and assisting with reports with DNA Environment .
+Centeno Mejías is currently monitoring seawater outflows of the EcoEléctrica power plant in Bahía de Guayanilla, PR for regulatory compliance as part of a project-based MS through coordinating field efforts, organizing data, and assisting with reports with DNA Environment.
 
 ---
 <div style="text-align: center;">
@@ -73,7 +57,7 @@ Centeno Mejías is currently monitoring seawater outflows of the EcoEléctrica p
 #### catherine.hernandez2@upr.edu
 </div>
 
-Hernández Rodriguez is quantifying seagrass metabolism to better understand ‘blue carbon’ uptake and seagrass bed biogeochemistry through a multidisciplinary apprach to better understand the role of seagrass meados for carbon sequestration and seawater buffering under ocean acidification.
+Hernández Rodriguez is quantifying seagrass metabolism to better understand blue carbon uptake and seagrass bed biogeochemistry through a multidisciplinary approach to better understand the role of seagrass meadows for carbon sequestration and seawater buffering under ocean acidification.
 
 ---
 <div style="text-align: center;">
