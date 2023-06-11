@@ -4,6 +4,10 @@ title: Outreach
 layout: single
 ---
 
+<div style="text-align: center;">
+{{< figure src="pools.png" width="400">}}
+</div>
+
 #### Lesson Plans for K-12 Teachers
 
 The following lesson plans were developed for K-12 teachers as part of the Scientific Research and Education Network:
@@ -15,7 +19,3 @@ The following lesson plans were developed for K-12 teachers as part of the Scien
 
 #### Biogeochemistry + Ecology Research Group in the News
 [An Interview with Dr. Travis Courtney – Marine Chemist and PLOS Author](https://everyone.plos.org/2022/01/27/an-interview-with-dr-travis-courtney-marine-chemist-and-plos-author/)
-
-<div style="text-align: center;">
-{{< figure src="pools.png">}}
-</div>

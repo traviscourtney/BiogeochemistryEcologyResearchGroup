@@ -11,7 +11,7 @@ Our team uses a combination of in situ oceanographic sensors, coral growth recor
 </div>
 
 <div style="text-align: center;">
-{{< figure src="instrument_sampling.png">}}
+{{< figure src="instrument_sampling.png" width="400">}}
 </div>
 
 
