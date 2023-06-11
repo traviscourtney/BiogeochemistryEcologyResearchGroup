@@ -1,8 +1,6 @@
 ---
-title: Travis Courtney, PhD
-subtitle: Department of Marine Sciences | University of Puerto Rico | Road 304, La Parguera, PR 00667
-date: 2023-02-03
-featured: true
+title: Contact
+date: 2023-06-11
 layout: single
 links:
 - icon: envelope
@@ -26,5 +24,14 @@ links:
   name: code
   url: https://github.com/traviscourtney/
 ---
+
+<div style="text-align: center;">
+
+#### Travis Courtney
+#### Department of Marine Sciences
+#### University of Puerto Rico
+#### Road 304, La Parguera, PR 00667
+
+</div>
 
 {{< figure src="magueyes.JPG">}}
