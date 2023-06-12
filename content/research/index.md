@@ -45,7 +45,7 @@ We are maintaining water quality regulatory compliance monitoring for the EcoEl√
 
 <div style="text-align: justify;"> 
 
-Our team is also conducting research on a range of individual projects relating to themes of coastal biogeochemistry and ecology in Puerto Rico. Please see the [Team page](team.html) for additional information on these projects.
+Our team is also conducting research on a range of individual projects relating to themes of coastal biogeochemistry and ecology in Puerto Rico. Please see the [Team page](https://theberglab.com/team/) for additional information on these projects.
 
 </div>
 
