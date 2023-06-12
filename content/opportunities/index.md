@@ -3,9 +3,10 @@ date: 2023-06-11
 title: Opportunities
 layout: standard
 ---
-<div style="text-align: center;"> 
 
-#### Join the Biogeochemistry + Ecology Research Group at UPRM
+<div style="text-align: center;">
+
+# Opportunities
 
 </div>
 

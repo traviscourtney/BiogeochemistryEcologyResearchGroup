@@ -3,6 +3,13 @@ date: 2023-06-11
 title: Team
 layout: standard
 ---
+
+<div style="text-align: center;">
+
+# Team
+
+</div>
+
 <div style="text-align: center;">
 <img src="TravisCourtney.png" width="400">
 

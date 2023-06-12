@@ -6,7 +6,7 @@ layout: standard
 
 <div style="text-align: center;"> 
 
-#### Contact Us
+# Contact
 
 </div>
 

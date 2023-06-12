@@ -5,6 +5,12 @@ layout: standard
 ---
 
 <div style="text-align: center;">
+
+# Outreach
+
+</div>
+
+<div style="text-align: center;">
 {{< figure src="pools.png" width="400">}}
 </div>
 

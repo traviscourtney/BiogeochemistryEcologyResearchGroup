@@ -4,6 +4,12 @@ title: Research
 layout: standard
 ---
 
+<div style="text-align: center;">
+
+# Research
+
+</div>
+
 <div style="text-align: justify;"> 
 How do environmental conditions and disturbances drive physiology, biogeochemical processes, and ecosystem functions of marine environments? In addition to this general line of research, we seek to address related questions as part of developing partnerships with local governmental agencies, non-profits, and community groups. Please contact Dr. Courtney (travis.courtney@upr.edu) if you would like to discuss any potential collaborations.
 
