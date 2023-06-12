@@ -11,9 +11,8 @@ layout: standard
 </div>
 
 <div style="text-align: justify;"> 
-How do environmental conditions and disturbances drive physiology, biogeochemical processes, and ecosystem functions of marine environments? In addition to this general line of research, we seek to address related questions as part of developing partnerships with local governmental agencies, non-profits, and community groups. Please contact Dr. Courtney (travis.courtney@upr.edu) if you would like to discuss any potential collaborations.
+We seek to understand how the biogeochemistry of nearshore waters and the maintenance of coral reef structures are affected by local impacts and global environmental change with an emphasis on the coastal ecosystems of Puerto Rico. In addition to this general line of research, we seek to address related questions as part of developing partnerships with local governmental agencies, non-profits, and community groups. Please contact Dr. Courtney (travis.courtney@upr.edu) if you would like to discuss any potential collaborations.
 
-Our team uses a combination of in situ oceanographic sensors, coral growth records, biogeochemical measurements, benthic surveys, computer models, satellite data, and skeletal chemistry as part of our research efforts.
 </div>
 
 <div style="text-align: center;">
@@ -51,7 +50,7 @@ We are maintaining water quality regulatory compliance monitoring for the EcoEl√
 
 <div style="text-align: justify;"> 
 
-Our team is also conducting research on a range of individual projects relating to themes of coastal biogeochemistry and ecology in Puerto Rico. Please see the [Team page](https://theberglab.com/team/) for additional information on these projects.
+Our team is also conducting research on a range of individual projects relating to themes of coastal biogeochemistry and ecology in Puerto Rico. Please view the individual projects listed on the [Team](https://theberglab.com/team/) section of our website for additional information on these projects.
 
 </div>
 
