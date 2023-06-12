@@ -1,7 +1,7 @@
 ---
 date: 2023-06-11
 title: Team
-layout: single
+layout: standard
 ---
 <div style="text-align: center;">
 <img src="TravisCourtney.png" width="400">
@@ -10,6 +10,7 @@ layout: single
 ####  (he/him/his)
 #### Principal Investigator
 #### travis.courtney@upr.edu
+#### [Curriculum Vitae](https://github.com/traviscourtney/BiogeochemistryEcologyResearchGroup/raw/main/content/contact/TravisCourtneyCV.pdf)
 </div>
 
 <div style="text-align: justify;">

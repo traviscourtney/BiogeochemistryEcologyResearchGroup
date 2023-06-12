@@ -1,7 +1,7 @@
 ---
 date: 2023-06-11
 title: Research
-layout: single
+layout: standard
 ---
 
 <div style="text-align: justify;"> 
@@ -21,7 +21,7 @@ Our team uses a combination of in situ oceanographic sensors, coral growth recor
 
 </div>
 
-##### Puerto Rico Coral Reef Water Quality and Biological Condition Gradient Project
+#### Puerto Rico Coral Reef Water Quality and Biological Condition Gradient Project
 
 <div style="text-align: justify;"> 
 
@@ -29,7 +29,7 @@ We are currently working on a project to monitor 42 coral reef sites around Puer
 
 </div>
 
-##### EcoEléctrica Compliance Monitoring Project
+#### EcoEléctrica Compliance Monitoring Project
 
 <div style="text-align: justify;"> 
 
@@ -37,7 +37,7 @@ We are maintaining water quality regulatory compliance monitoring for the EcoEl�
 
 </div>
 
-##### Other Projects
+#### Other Projects
 
 <div style="text-align: justify;"> 
 

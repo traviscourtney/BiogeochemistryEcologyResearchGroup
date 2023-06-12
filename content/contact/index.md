@@ -1,36 +1,53 @@
 ---
 title: Contact
 date: 2023-06-11
-layout: single
-links:
-- icon: envelope
-  icon_pack: fas
-  name: Email
-  url: "mailto:travis.courtney@upr.com"
-- icon: user
-  icon_pack: fas
-  name: CV
-  url: https://github.com/traviscourtney/BiogeochemistryEcologyResearchGroup/raw/main/content/contact/TravisCourtneyCV.pdf
-- icon: newspaper
-  icon_pack: far
-  name: Scholar
-  url: https://scholar.google.com/citations?user=hK_DxtUAAAAJ&hl
-- icon: twitter
-  icon_pack: fab
-  name: Twitter
-  url: https://twitter.com/tacourtne
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/traviscourtney/
+layout: standard
 ---
+
+<div style="text-align: center;"> 
+
+#### Contact Us
+
+</div>
+
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
+        <div class="" style="max-width: 20%; max-height: 20%;">
+        
+[{{< figure src="envelope-solid.svg" width="40">}}](mailto:travis.courtney@upr.com)
+
+</div>
+
+ <div class="" style="max-width: 20%; max-height: 20%;">
+
+[{{< figure src="user-solid.svg" width="40">}}](https://github.com/traviscourtney/BiogeochemistryEcologyResearchGroup/raw/main/content/contact/TravisCourtneyCV.pdf)
+
+</div>
+ <div class="" style="max-width: 20%; max-height: 20%;">
+
+[{{< figure src="newspaper-regular.svg" width="40">}}](https://scholar.google.com/citations?user=hK_DxtUAAAAJ&hl)
+
+</div>
+ <div class="" style="max-width: 20%; max-height: 20%;">
+ 
+[{{< figure src="twitter.svg" width="40">}}](https://twitter.com/tacourtne)
+
+</div>
+ <div class="" style="max-width: 20%; max-height: 20%;">
+ 
+[{{< figure src="github.svg" width="40">}}](https://github.com/traviscourtney)
+
+</div>
+</div>
 
 <div style="text-align: center;">
 
-#### Travis Courtney
-#### Department of Marine Sciences
-#### University of Puerto Rico
-#### Road 304, La Parguera, PR 00667
+Travis Courtney
+
+Department of Marine Sciences
+
+University of Puerto Rico
+
+Road 304, La Parguera, PR 00667
 
 </div>
 

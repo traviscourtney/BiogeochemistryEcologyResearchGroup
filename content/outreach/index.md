@@ -1,7 +1,7 @@
 ---
 date: 2023-06-11
 title: Outreach
-layout: single
+layout: standard
 ---
 
 <div style="text-align: center;">
