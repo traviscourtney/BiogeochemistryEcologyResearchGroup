@@ -85,6 +85,6 @@ We developed a [tool to estimate coral reef carbonate production](https://coraln
 
 <div style="text-align: justify;"> 
 
-Our lab is committed to open data science and typically use the open source software R for our all code and analyses. All research outputs lead by PI Travis Courtney, including the source code for this website, are all freely accessible on [Github](https://github.com/traviscourtney) and individual research outputs from our team members will also be made publicly available by their respective [Github](https://github.com/) pages and public data repositories.
+Our lab is committed to open data science and typically use the open source software R for our all code and analyses. All research outputs lead by PI Travis Courtney, including the source code for this website, are all freely accessible on [GitHub](https://github.com/traviscourtney) and individual research outputs from our team members will also be made publicly available by their respective [GitHub](https://github.com/) pages and public data repositories.
 
 </div>
