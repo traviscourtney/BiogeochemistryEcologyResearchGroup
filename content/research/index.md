@@ -5,7 +5,7 @@ layout: single
 ---
 
 <div style="text-align: justify;"> 
-How do environmental conditions and disturbances drive organismal performance, biogeochemical processes, and ecosystem functions of marine environments? In addition to this general line of research, we seek to address related questions as part of developing partnerships with local governmental agencies, non-profits, and community groups. Please contact Dr. Courtney (travis.courtney@upr.edu) if you would like to discuss any potential collaborations.
+How do environmental conditions and disturbances drive physiology, biogeochemical processes, and ecosystem functions of marine environments? In addition to this general line of research, we seek to address related questions as part of developing partnerships with local governmental agencies, non-profits, and community groups. Please contact Dr. Courtney (travis.courtney@upr.edu) if you would like to discuss any potential collaborations.
 
 Our team uses a combination of in situ oceanographic sensors, coral growth records, biogeochemical measurements, benthic surveys, computer models, satellite data, and skeletal chemistry as part of our research efforts.
 </div>
