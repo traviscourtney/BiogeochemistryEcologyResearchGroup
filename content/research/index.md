@@ -29,6 +29,10 @@ We are currently working on a project to monitor 42 coral reef sites around Puer
 
 </div>
 
+<div style="text-align: center;">
+{{< figure src="CCRI_sampling.png" width="400">}}
+</div>
+
 #### EcoEléctrica Compliance Monitoring Project
 
 <div style="text-align: justify;"> 
@@ -67,6 +71,10 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=hK_DxtUA
 
 We developed a [tool to estimate coral reef carbonate production](https://coralnet.ucsd.edu/blog/coralnet-now-estimates-carbonate-production-rates/) to the automated coral reef image analysis software [CoralNet](https://coralnet.ucsd.edu/) and an [Excel tool](https://zenodo.org/record/7051628) to estimate net coral reef calcification from seawater chemistry data.
 
+</div>
+
+<div style="text-align: center;">
+{{< figure src="CoralNet.png" width="400">}}
 </div>
 
 <div style="text-align: center;">
