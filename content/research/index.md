@@ -11,7 +11,7 @@ layout: standard
 </div>
 
 <div style="text-align: justify;"> 
-We seek to understand how the biogeochemistry of nearshore waters and the maintenance of coral reef structures are affected by local impacts and global environmental change with an emphasis on the coastal ecosystems of Puerto Rico. In addition to this general line of research, we seek to address related questions as part of developing partnerships with local governmental agencies, non-profits, and community groups. Please contact Dr. Courtney (travis.courtney@upr.edu) if you would like to discuss any potential collaborations.
+We seek to understand how the biogeochemistry of nearshore waters and the maintenance of coral reef structures are affected by local impacts and global environmental change with an emphasis on the coastal ecosystems of Puerto Rico. In addition to this general line of research, we seek to address related questions as part of developing partnerships with local governmental agencies, non-profits, and community groups. Please contact Dr. Courtney (travis.courtney@upr.com) if you would like to discuss any potential collaborations.
 
 </div>
 
@@ -62,7 +62,7 @@ Our team is also conducting research on a range of individual projects relating 
 
 <div style="text-align: justify;"> 
 
-Please visit [Google Scholar](https://scholar.google.com/citations?user=hK_DxtUAAAAJ&hl) for a complete list of publications and contact Dr. Courtney (travis.courtney@upr.edu) for direct access to any of the publications listed there.
+Please visit [Google Scholar](https://scholar.google.com/citations?user=hK_DxtUAAAAJ&hl) for a complete list of publications and contact Dr. Courtney (travis.courtney@upr.com) for direct access to any of the publications listed there.
 
 </div>
 
@@ -90,6 +90,6 @@ We developed a [tool to estimate coral reef carbonate production](https://coraln
 
 <div style="text-align: justify;"> 
 
-Our lab is committed to open data science and typically use the open source software R for our all code and analyses. All research outputs lead by PI Travis Courtney, including the source code for this website, are all freely accessible on [GitHub](https://github.com/traviscourtney) and individual research outputs from our team members will also be made publicly available by their respective [GitHub](https://github.com/) pages and public data repositories.
+Our lab is committed to open data science and typically use the open source software R for our all code and analyses. All research outputs lead by PI Courtney, including the source code for this website, are all freely accessible on [GitHub](https://github.com/traviscourtney) and individual research outputs from our team members will also be made publicly available by their respective [GitHub](https://github.com/) pages and public data repositories.
 
 </div>
