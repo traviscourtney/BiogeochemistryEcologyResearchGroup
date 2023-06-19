@@ -55,6 +55,10 @@ Our team is also conducting research on a range of individual projects relating 
 </div>
 
 <div style="text-align: center;">
+{{< figure src="Diadema.png" width="400">}}
+</div>
+
+<div style="text-align: center;">
 
 #### Publications
 
@@ -92,4 +96,8 @@ We developed a [tool to estimate coral reef carbonate production](https://coraln
 
 Our lab is committed to open data science and typically use the open source software R for our all code and analyses. All research outputs lead by PI Courtney, including the source code for this website, are all freely accessible on [GitHub](https://github.com/traviscourtney) and individual research outputs from our team members will also be made publicly available by their respective [GitHub](https://github.com/) pages and public data repositories.
 
+</div>
+
+<div style="text-align: center;">
+{{< figure src="Porites.png" width="400">}}
 </div>
