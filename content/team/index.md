@@ -78,7 +78,7 @@ Hernández Rodriguez is quantifying seagrass metabolism to better understand blu
 
 <img src="CarlaMejiasRivera.png" width="400">
 
-#### Carla Mejías Rivera
+#### Carla Mejías Rivera, M.S.
 
 ####  (she/her/hers)
 
@@ -137,5 +137,56 @@ Carbelleira Martinez is currently assisting with monitoring seawater outflows of
 <div style="text-align: justify;">
 
 Martinez-Ortiz is currently assisting with monitoring seawater outflows of the EcoEléctrica power plant in Bahía de Guayanilla, PR for regulatory compliancewith DNA Environment and developing a thesis to assess the drivers and variability of seawater dissolved oxygen within Bahía de Guayanilla.
+
+</div>
+
+<div style="text-align: center;">
+<img src="CarolinaMelendezDeclet.png" width="400">
+
+#### Carolina Melendez Declet
+
+####  (ella/she/her)
+
+#### MS Student
+
+#### carolina.melendez3@upr.edu
+</div>
+<div style="text-align: justify;">
+
+Melendez-Declet is analyzing seawater samples from the Falkor (too) exploration of Southwest Puerto Rico to characterize the biogeochemistry of mesophotic coral ecosystems for her MS thesis.
+
+</div>
+
+<div style="text-align: center;">
+<img src="IgnacioRueda.png" width="400">
+
+#### Ignacio Rueda
+
+####  (he/him/his)
+
+#### MS Student
+
+#### ignacio.rueda@upr.edu
+</div>
+<div style="text-align: justify;">
+
+Rueda will be exploring changes in the structural complexity of the seafloor through space and time using next-generation autonomous vehicles in the islands of Hawai'i for his MS thesis.
+
+</div>
+
+<div style="text-align: center;">
+<img src="JosephTownsend.png" width="400">
+
+#### Joseph Townsend, M.S.
+
+####  (he/him/él)
+
+#### PhD Student
+
+#### joseph.townsend@upr.edu
+</div>
+<div style="text-align: justify;">
+
+Townsend will be exploring decadal scale trends in coral reef carbonate production in Puerto Rico and monitoring the capacity of coral restoration to restore ecosystem function for his dissertation.
 
 </div>
