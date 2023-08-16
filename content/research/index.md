@@ -38,6 +38,14 @@ We are currently working on a project to monitor 42 coral reef sites around Puer
 {{< figure src="CCRI_sampling.png" width="400">}}
 </div>
 
+#### Seafloor Structural Complexity in the Hawaiian Islands
+
+<div style="text-align: justify;"> 
+
+We will be quantifying changes in seafloor structural complexity across space and time on board the E/V Nautilus expedition (NA156) to advance [Ocean Exploration through Advanced Imaging in the Hawaiian Islands](https://nautiluslive.org/cruise/na156) as part of a project funded by the Office of Naval Research.
+
+</div>
+
 #### EcoEléctrica Compliance Monitoring Project
 
 <div style="text-align: justify;"> 
