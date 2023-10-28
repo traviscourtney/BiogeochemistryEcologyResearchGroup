@@ -11,7 +11,7 @@ layout: standard
 </div>
 
 <div style="text-align: center;">
-<img src="TravisCourtney.png" width="400">
+<img src="TravisCourtney.PNG" width="400">
 
 #### Dr. Travis Courtney
 ####  (he/him/his)
