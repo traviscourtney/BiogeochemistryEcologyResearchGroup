@@ -1,5 +1,5 @@
 ---
-date: 2023-06-11
+date: 2024-01-17
 title: Research
 layout: standard
 ---
@@ -16,13 +16,13 @@ We seek to understand how the biogeochemistry of nearshore waters and the mainte
 </div>
 
 <div style="text-align: center;">
-{{< figure src="instrument_sampling.png" width="400">}}
+{{< figure src="instrument_sampling.png" width="300">}}
 </div>
 
 
 <div style="text-align: center;">
 
-#### Current Projects
+#### Current Funded Projects
 
 </div>
 
@@ -30,19 +30,27 @@ We seek to understand how the biogeochemistry of nearshore waters and the mainte
 
 <div style="text-align: justify;"> 
 
-We are currently working on a project to monitor 42 coral reef sites around Puerto Rico for biogeochemistry, benthic communities, and fish communities to assess the potential drivers of coral reef condition as part of a project funded by the Puerto Rico Department of Natural and Environmental Resources. Please visit the [Caribbean Coral Reef Institute webpage](https://www.uprm.edu/ccri/research/water-quality-project/) for further details on our Puerto Rico Coral Reef Water Quality Monitoring Project.
+We are currently working on a project to monitor 42 coral reef sites around Puerto Rico for biogeochemistry, benthic communities, and fish communities to assess the potential drivers of coral reef condition as part of a project funded by the Puerto Rico Department of Natural and Environmental Resources. Please visit the [Caribbean Coral Reef Institute webpage](https://www.uprm.edu/ccri/research/water-quality-project/) for further details on our Puerto Rico Coral Reef Water Quality Monitoring Project funded by the Puerto Rico Department of Natural and Environmental Resources.
 
 </div>
 
 <div style="text-align: center;">
-{{< figure src="CCRI_sampling.png" width="400">}}
+{{< figure src="CCRI_sampling.png" width="300">}}
 </div>
 
 #### Seafloor Structural Complexity in the Hawaiian Islands
 
 <div style="text-align: justify;"> 
 
-We will be quantifying changes in seafloor structural complexity across space and time on board the E/V Nautilus expedition (NA156) to advance [Ocean Exploration through Advanced Imaging in the Hawaiian Islands](https://nautiluslive.org/cruise/na156) as part of a project funded by the Office of Naval Research.
+We are quantifying the drivers of seafloor structural complexity as part of the E/V Nautilus expedition (NA156) to advance [Ocean Exploration through Advanced Imaging in the Hawaiian Islands](https://nautiluslive.org/cruise/na156) as part of a project funded by the Office of Naval Research. Through coupling the latest imagery technologies aboard a deep-sea ROV with with structure from motion technology, we are reconstructing and analyzing 3D computer models of habitat structural complexity from the deep sea.
+
+</div>
+
+#### Monitoring the Success of Coral Restoration in Puerto Rico
+
+<div style="text-align: justify;"> 
+
+We are part of a [large-scale multi-institutional coral reef restoration project](https://www.fisheries.noaa.gov/feature-story/new-hope-puerto-ricos-coral-reefs) led by the non-profit [Institute for Socio-Ecological Research](https://www.isercaribe.org/) funded by the [National Oceanographic and Atmospheric Administration Office of Habitat Conservation](https://www.fisheries.noaa.gov/about/office-habitat-conservation). Our group is monitoring the restored coral reef benthic communities and comparing them to nearby reference sites to quantify the effects of coral reef restoration on overall coral cover and whether this restoration has the capacity to reverse long-term declines in coral reef reef growth.
 
 </div>
 
@@ -63,7 +71,7 @@ Our team is also conducting research on a range of individual projects relating 
 </div>
 
 <div style="text-align: center;">
-{{< figure src="Diadema.png" width="400">}}
+{{< figure src="Diadema.png" width="300">}}
 </div>
 
 <div style="text-align: center;">
@@ -91,7 +99,7 @@ We developed a [tool to estimate coral reef carbonate production](https://coraln
 </div>
 
 <div style="text-align: center;">
-{{< figure src="CoralNet.png" width="400">}}
+{{< figure src="CoralNet.png" width="300">}}
 </div>
 
 <div style="text-align: center;">
@@ -107,5 +115,5 @@ Our lab is committed to open data science and typically use the open source soft
 </div>
 
 <div style="text-align: center;">
-{{< figure src="Porites.png" width="400">}}
+{{< figure src="Porites.png" width="300">}}
 </div>

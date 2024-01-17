@@ -1,5 +1,5 @@
 ---
-date: 2023-06-11
+date: 2024-01-17
 title: Team
 layout: standard
 ---
@@ -11,7 +11,7 @@ layout: standard
 </div>
 
 <div style="text-align: center;">
-<img src="TravisCourtney.PNG" width="400">
+<img src="TravisCourtney.PNG" width="300">
 
 #### Dr. Travis Courtney
 ####  (he/him/his)
@@ -26,12 +26,11 @@ Dr. Courtney earned his B.S. in Geology and Environmental Science from the Unive
 
 </div>
 <div style="text-align: center;">
-<img src="MarthaRicaurte.png" width="400">
+<img src="MarthaRicaurte.png" width="300">
 
 #### Dr. Martha Ricaurte
-
+####  (she/her/hers)
 #### Caribbean Coral Reef Institute Water Quality Lab Manager
-
 #### martha.ricaurte@upr.edu
 </div>
 
@@ -40,26 +39,9 @@ Dr. Courtney earned his B.S. in Geology and Environmental Science from the Unive
 Dr. Ricaurte earned a PhD from the Univeristy of Puerto Rico Mayagüez and is currently managing the [Caribbean Coral Reef Institute](https://www.uprm.edu/ccri/) Water Quality Lab to analyze seawater samples from coral reefs around Puerto Rico to evaluate the influence of water quality on coral reef condition.
 
 </div>
+
 <div style="text-align: center;">
-
-<img src="LeiraCentenoMejias.png" width="400">
-
-
-#### Leira Centeno Mejías
-
-####  (she/her/hers)
-
-#### MS Student
-
-#### leira.centeno@upr.edu
-</div>
-<div style="text-align: justify;">
-
-Centeno Mejías is currently monitoring seawater outflows of the EcoEléctrica power plant in Bahía de Guayanilla, PR for regulatory compliance as part of a project-based MS through coordinating field efforts, organizing data, and assisting with reports with DNA Environment.
-
-</div>
-<div style="text-align: center;">
-<img src="CatherineHernandezRodriguez.png" width="400">
+<img src="CatherineHernandezRodriguez.png" width="300">
 
 #### Catherine Hernández Rodriguez
 
@@ -76,7 +58,7 @@ Hernández Rodriguez is quantifying seagrass metabolism to better understand blu
 </div>
 <div style="text-align: center;">
 
-<img src="CarlaMejiasRivera.png" width="400">
+<img src="CarlaMejiasRivera.png" width="300">
 
 #### Carla Mejías Rivera, M.S.
 
@@ -92,7 +74,7 @@ Mejías Rivera is researching the role of particulate organic carbon on coral re
 
 </div>
 <div style="text-align: center;">
-<img src="IraisLuquisRamos.png" width="400">
+<img src="IraisLuquisRamos.png" width="300">
 
 #### Irais Luquis Ramos
 
@@ -108,7 +90,7 @@ Luquis Ramos is currently investigating the role of Diadema sea urchin on coral 
 
 </div>
 <div style="text-align: center;">
-<img src="JuanitaCarbelleiraMartinez.png" width="400">
+<img src="JuanitaCarbelleiraMartinez.png" width="300">
 
 #### Juanita Carballeira Martinez
 
@@ -124,7 +106,7 @@ Carbelleira Martinez is currently assisting with monitoring seawater outflows of
 
 </div>
 <div style="text-align: center;">
-<img src="JoseMartinezOrtiz.PNG" width="400">
+<img src="JoseMartinezOrtiz.PNG" width="300">
 
 #### Jose Martinez Ortiz
 
@@ -141,7 +123,7 @@ Martinez-Ortiz is currently assisting with monitoring seawater outflows of the E
 </div>
 
 <div style="text-align: center;">
-<img src="CarolinaMelendezDeclet.png" width="400">
+<img src="CarolinaMelendezDeclet.png" width="300">
 
 #### Carolina Melendez Declet
 
@@ -158,7 +140,7 @@ Melendez-Declet is analyzing seawater samples from the Falkor (too) exploration 
 </div>
 
 <div style="text-align: center;">
-<img src="IgnacioRueda.png" width="400">
+<img src="IgnacioRueda.png" width="300">
 
 #### Ignacio Rueda
 
@@ -175,7 +157,7 @@ Rueda will be exploring changes in the structural complexity of the seafloor thr
 </div>
 
 <div style="text-align: center;">
-<img src="JosephTownsend.png" width="400">
+<img src="JosephTownsend.png" width="300">
 
 #### Joseph Townsend, M.S.
 
@@ -189,4 +171,17 @@ Rueda will be exploring changes in the structural complexity of the seafloor thr
 
 Townsend will be exploring decadal scale trends in coral reef carbonate production in Puerto Rico and monitoring the capacity of coral restoration to restore ecosystem function for his dissertation.
 
+</div>
+
+<div style="text-align: center;">
+
+# Lab Alumni
+</div>
+
+<div style="text-align: center;">
+<img src="LeiraCentenoMejias.png" width="300">
+
+#### Leira Centeno Mejías
+#### (she/her/hers)
+#### MS Degree
 </div>
