@@ -21,6 +21,6 @@ links:
 
 <div style="text-align: justify;">
 
-Luquis Ramos is currently investigating the role of Diadema sea urchin on coral reef herbivory and bioerosion to inform restoration targets as part of a project-based MS in collaboration with [ISER Caribe](https://www.isercaribe.org/).
+Luquis Ramos is currently developing a tool to assess optimize Diadema sea urchin herbivory and bioerosion to inform restoration targets as part of a project-based MS in collaboration with [ISER Caribe](https://www.isercaribe.org/).
 
 </div>

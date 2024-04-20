@@ -21,6 +21,6 @@ links:
 
 <div style="text-align: justify;">
 
-Melendez-Declet is analyzing seawater samples from the Falkor (too) exploration of Southwest Puerto Rico to characterize the biogeochemistry of mesophotic coral ecosystems for her MS thesis.
+Melendez-Declet will be working on quantifying the drivers of Ulva sp. seaweed to optimize tropical seaweed cultivation strategies for her MS thesis.
 
 </div>

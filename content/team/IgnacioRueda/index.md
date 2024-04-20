@@ -21,6 +21,6 @@ links:
 
 <div style="text-align: justify;">
 
-Rueda is exploring changes in the structural complexity of the seafloor through space and time using next-generation autonomous vehicles in the islands of Hawai'i for his MS thesis.
+Rueda is exploring coral contributions to deep sea benthic structural complexity using next-generation autonomous vehicles, cameras, and structure form motion modeling in the islands of Hawai'i for his MS thesis.
 
 </div>

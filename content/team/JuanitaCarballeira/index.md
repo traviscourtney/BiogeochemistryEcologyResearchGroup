@@ -21,6 +21,6 @@ links:
 
 <div style="text-align: justify;">
 
-Carbelleira Martinez is currently assisting with monitoring seawater outflows of the EcoEléctrica power plant in Bahía de Guayanilla, PR for regulatory compliance with DNA Environment and developing a thesis investigating vertical variability in seawater chemistry.
+Carbelleira Martinez is currently assisting with monitoring seawater outflows of the EcoEléctrica power plant in Bahía de Guayanilla, PR for regulatory compliance with DNA Environment and investigating vertical variability in seawater chemistry for her MS thesis.
 
 </div>

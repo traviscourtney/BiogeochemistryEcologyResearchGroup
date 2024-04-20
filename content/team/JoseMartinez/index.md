@@ -21,6 +21,6 @@ links:
 
 <div style="text-align: justify;">
 
-Martinez-Ortiz is currently assisting with monitoring seawater outflows of the EcoEléctrica power plant in Bahía de Guayanilla, PR for regulatory compliancewith DNA Environment and developing a thesis to assess the drivers and variability of seawater dissolved oxygen within Bahía de Guayanilla.
+Martinez-Ortiz is currently assisting with monitoring seawater outflows of the EcoEléctrica power plant in Bahía de Guayanilla, PR for regulatory compliancewith DNA Environment and investigating the impacts of Sargassum on coastal dissolved oxygen in La Parguera Natural Reserve.
 
 </div>

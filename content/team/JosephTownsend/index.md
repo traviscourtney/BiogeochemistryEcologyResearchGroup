@@ -21,6 +21,6 @@ links:
 
 <div style="text-align: justify;">
 
-Townsend will be exploring decadal scale trends in coral reef carbonate production in Puerto Rico and monitoring the capacity of coral restoration to restore ecosystem function for his dissertation.
+Townsend will be exploring the capacity of coral restoration to restore ecosystem function of reef-building for his PhD dissertation.
 
 </div>
