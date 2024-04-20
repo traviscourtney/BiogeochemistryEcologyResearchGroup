@@ -12,7 +12,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: email
-  url: catherine.hernandez2@upr.edu
+  url: mailto:catherine.hernandez2@upr.edu
 ---
 
 <div style="text-align: center;">

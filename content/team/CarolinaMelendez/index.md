@@ -12,7 +12,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: email
-  url: carolina.melendez3@upr.edu
+  url: mailto:carolina.melendez3@upr.edu
 ---
 
 <div style="text-align: center;">

@@ -12,7 +12,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: email
-  url: juanita.carballeira@upr.edu
+  url: mailto:juanita.carballeira@upr.edu
 ---
 
 <div style="text-align: center;">

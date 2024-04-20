@@ -12,11 +12,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: email
-  url: ignacio.rueda@upr.edu
-- icon: github
-  icon_pack: fab
-  name: cv
-  url: https://github.com/traviscourtney/BiogeochemistryEcologyResearchGroup/raw/main/content/contact/TravisCourtneyCV.pdf
+  url: mailto:ignacio.rueda@upr.edu
 ---
 
 <div style="text-align: center;">

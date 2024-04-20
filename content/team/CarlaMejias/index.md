@@ -12,7 +12,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: email
-  url: carla.mejias@upr.edu
+  url: mailto:carla.mejias@upr.edu
 ---
 
 <div style="text-align: center;">

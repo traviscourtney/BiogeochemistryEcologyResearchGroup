@@ -12,7 +12,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: email
-  url: irais.luquis@upr.edu
+  url: mailto:irais.luquis@upr.edu
 ---
 
 <div style="text-align: center;">

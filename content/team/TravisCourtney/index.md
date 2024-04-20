@@ -12,11 +12,11 @@ links:
 - icon: envelope
   icon_pack: fas
   name: email
-  url: travis.courtney@upr.edu
+  url: mailto:travis.courtney@upr.edu
 - icon: github
   icon_pack: fab
   name: github
-  url: https://github.com/traviscourtney/BiogeochemistryEcologyResearchGroup/raw/main/content/contact/TravisCourtneyCV.pdf
+  url: https://github.com/traviscourtney/
 - icon: user 
   icon_pack: fas
   name: cv
@@ -24,7 +24,7 @@ links:
 - icon: newspaper
   icon_pack: far
   name: scholar
-  url: https://scholar.google.com/citations?user:hK_DxtUAAAAJ&hl
+  url: https://scholar.google.com/citations?hl=en&user=hK_DxtUAAAAJ
 - icon: twitter
   icon_pack: fab
   name: twitter

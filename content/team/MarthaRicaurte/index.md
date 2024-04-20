@@ -12,7 +12,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: email
-  url: martha.ricaurte@upr.edu
+  url: mailto:martha.ricaurte@upr.edu
 ---
 
 <div style="text-align: center;">

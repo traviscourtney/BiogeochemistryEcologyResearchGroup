@@ -12,7 +12,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: email
-  url: joseph.townsend@upr.edu
+  url: mailto:joseph.townsend@upr.edu
 ---
 
 <div style="text-align: center;">

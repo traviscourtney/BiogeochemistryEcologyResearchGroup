@@ -12,7 +12,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: email
-  url: jose.martinez203@upr.edu
+  url: mailto:jose.martinez203@upr.edu
 ---
 
 <div style="text-align: center;">
