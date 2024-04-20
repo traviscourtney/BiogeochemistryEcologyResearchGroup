@@ -1,6 +1,6 @@
 ---
 title: Team
-description: "Please contact Dr. Courtney (travis.courtney@upr.edu) if you are interested in potential opportunities to join our lab group as a graduate student (MS, PhD) or postdoc on our expanding range of research projects."
+description: "Please contact Dr. Courtney (travis.courtney@upr.edu) if you are interested in potential opportunities to join our lab group as a graduate student (MS, PhD) or postdoc on our expanding range of research projects. Click below to learn more about our team members."
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false

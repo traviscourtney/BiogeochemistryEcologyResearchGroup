@@ -49,6 +49,6 @@ University of Puerto Rico
 
 Road 304, La Parguera, PR 00667
 
-</div>
+{{< figure src="LabPoster_vCoralReefs.jpg" width="600">}}
 
-{{< figure src="LabPoster_vCoralReefs.jpg">}}
+</div>
