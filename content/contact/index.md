@@ -41,7 +41,7 @@ layout: standard
 
 <div style="text-align: center;">
 
-Travis Courtney
+Dr. Travis Courtney
 
 Department of Marine Sciences
 
@@ -51,4 +51,4 @@ Road 304, La Parguera, PR 00667
 
 </div>
 
-{{< figure src="magueyes.JPG">}}
+{{< figure src="LabPoster_vCoralReefs.jpg">}}
