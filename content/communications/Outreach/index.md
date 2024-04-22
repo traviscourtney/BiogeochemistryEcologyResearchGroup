@@ -18,7 +18,7 @@ layout: single
 
 The following lesson plans were developed for K-12 teachers as part of the Scientific Research and Education Network:
 
-<a href="./TravisCourtney_SciREN_OA_LessonPlan.pdf" download>SciREN 2014: Ocean Acidification Lesson Plan for Grades 9-12</a>
+<a href="./TravisCourtney_SciREN_OceanAcidification.pdf" download>SciREN 2014: Ocean Acidification Lesson Plan for Grades 9-12</a>
 
 <a href="./TravisCourtney_SciREN_CoralReefDisturbances.pdf" download>SciREN 2020: Building Coral Reefs Under Climate Change Lesson Plan for Grades 9-12
 </a>
