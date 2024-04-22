@@ -16,11 +16,11 @@ links:
 ---
 
 <div style="text-align: center;">
-<img src="featured-hex.PNG" width="300"> 
+<img src="featured-hex.png" width="300"> 
 </div>
 
 <div style="text-align: justify;">
 
-Melendez-Declet will be working on quantifying the drivers of Ulva sp. seaweed to optimize tropical seaweed cultivation strategies for her MS thesis.
+Melendez-Declet will be working on quantifying the drivers of Ulva seaweed to optimize tropical seaweed cultivation strategies to support ongoing development of the Puerto Rico blue economy for her MS thesis.
 
 </div>

@@ -1,7 +1,7 @@
 ---
 title: "CoralNet Carbonate Production"
 excerpt: "National Oceanographic and Atmospheric Administration"
-date: 2024-04-18
+date: 2024-04-16
 show_author_byline: false
 show_post_date: false
 draft: false
@@ -9,7 +9,7 @@ layout: single
 ---
 
 <div style="text-align: center;">
-<img src="featured-hex.png" width="300"> 
+<img src="featured-hex.png" width="600"> 
 </div>
 
 <div style="text-align: justify;">

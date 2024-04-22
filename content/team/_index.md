@@ -1,6 +1,6 @@
 ---
 title: Team
-description: "Please contact Dr. Courtney (travis.courtney@upr.edu) if you are interested in potential opportunities to join our lab group as a graduate student (MS, PhD) or postdoc on our expanding range of research projects. Click below to learn more about our team members."
+description: "Our group is located on Isla Magueyes, La Parguera as part of the [Department of Marine Sciences](https://www.uprm.edu/cima/) at the [University of Puerto Rico Mayagüez](https://www.uprm.edu/). We work on a range of projects at the intersection of biogeochemistry and ecology. Please click below to learn more about our team members and their projects."
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false

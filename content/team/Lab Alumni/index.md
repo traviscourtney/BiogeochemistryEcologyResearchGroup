@@ -16,3 +16,9 @@ layout: single
 #### (she/her/hers)
 #### MS Degree
 </div>
+
+<div style="text-align: justify;">
+
+Centeno-Mejias completed comliance monitoring for the EcoElectrica power plant in Guayanilla Bay as part of a project-based MS with DNA Environment consulting group. 
+
+</div>
