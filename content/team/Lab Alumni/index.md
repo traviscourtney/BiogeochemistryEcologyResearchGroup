@@ -19,6 +19,6 @@ layout: single
 
 <div style="text-align: justify;">
 
-Centeno-Mejias completed comliance monitoring for the EcoElectrica power plant in Guayanilla Bay as part of a project-based MS with DNA Environment consulting group. 
+Centeno-Mejias completed water quality compliance monitoring for the EcoEléctrica power plant in Guayanilla Bay, Puerto Rico as part of a project-based MS with DNA Environment LLC. 
 
 </div>

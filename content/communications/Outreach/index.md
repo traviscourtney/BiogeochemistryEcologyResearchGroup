@@ -1,6 +1,6 @@
 ---
 title: Outreach
-excerpt: "Click to explore lesson plans and the berglab in the news."
+excerpt: "Click to explore lesson plans and selected media."
 date: 2023-06-10
 show_post_date: false
 layout: single

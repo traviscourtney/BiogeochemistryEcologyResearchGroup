@@ -29,6 +29,8 @@ links:
 
 <div style="text-align: center;">
 
+<img src="featured-hex.png" width="300"> 
+
 Dr. Travis Courtney
 
 Department of Marine Sciences
@@ -37,6 +39,6 @@ University of Puerto Rico
 
 Road 304, La Parguera, PR 00667
 
-<img src="featured-hex.png" width="600"> 
+<img src="we_believe.png" width="600"> 
 
 </div>
