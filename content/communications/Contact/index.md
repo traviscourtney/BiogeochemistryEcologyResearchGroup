@@ -31,9 +31,9 @@ links:
 
 <img src="featured-hex.png" width="300"> 
 
-Dr. Travis Courtney
-
 Department of Marine Sciences
+
+Attn: Dr. Travis Courtney
 
 University of Puerto Rico
 
