@@ -10,7 +10,7 @@ layout: single
 ---
 
 <div style="text-align: center;">
-<img src="LeiraCentenoMejias.png" width="600">
+<img src="LeiraCentenoMejias.png" width="450">
 
 #### Leira Centeno Mejías
 #### (she/her/hers)
