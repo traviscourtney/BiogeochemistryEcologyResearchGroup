@@ -16,7 +16,7 @@ links:
 ---
 
 <div style="text-align: center;">
-<img src="featured-hex.PNG" width="300"> 
+<img src="featured-hex.PNG" width="600"> 
 </div>
 
 <div style="text-align: justify;">
