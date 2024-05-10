@@ -13,6 +13,14 @@ links:
   icon_pack: fas
   name: email
   url: mailto:carla.mejias@upr.edu
+- icon: linkedin
+  icon_pack: fab
+  name: linked in
+  url: https://www.linkedin.com/in/carla-lorraine-mejias-rivera-a1657419/
+- icon: github
+  icon_pack: fab
+  name: github
+  url: https://github.com/cmejias18
 ---
 
 <div style="text-align: center;">
@@ -21,6 +29,6 @@ links:
 
 <div style="text-align: justify;">
 
-Mejías Rivera is researching the roles of ocean warming and food subsidies on coral reef ecosystems through a combination of traditional bottle samples and remote sensing to better understand the functional linkages between between the open ocean, coral reefs, seagrasses, and mangroves.
+Mejías Rivera is researching the roles of ocean warming and food subsidies on coral reef ecosystems through a combination of traditional in situ measurements and remote sensing to better understand the functional linkages between between the open ocean, coral reefs, seagrasses, and mangroves and their responses to climate change.
 
 </div>
