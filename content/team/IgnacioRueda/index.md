@@ -21,6 +21,6 @@ links:
 
 <div style="text-align: justify;">
 
-Rueda is exploring coral contributions to deep sea benthic structural complexity using next-generation autonomous vehicles, cameras, and structure form motion modeling in the islands of Hawai'i for his MS thesis.
+Rueda is exploring coral contributions to deep sea benthic structural complexity using next-generation autonomous vehicles, cameras, and structure form motion modeling in the islands of Hawai'i for his MS thesis as part of a [project](https://theberglab.com/research/deepseastructures/) funded by the Office of Naval Research.
 
 </div>

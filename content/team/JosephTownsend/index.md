@@ -21,6 +21,6 @@ links:
 
 <div style="text-align: justify;">
 
-Townsend will be exploring the capacity of coral restoration to restore ecosystem function of reef-building for his PhD dissertation.
+Townsend will be exploring the capacity of a [large-area coral restoration project](https://theberglab.com/research/restorationmonitoring/) to restore ecosystem function of reef-building for his PhD dissertation.
 
 </div>

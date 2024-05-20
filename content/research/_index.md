@@ -1,6 +1,6 @@
 ---
 title: Research Projects
-description: "We seek to understand how the biogeochemistry of nearshore waters and the maintenance of coral reef structures are affected by local impacts and global environmental change with an emphasis on the coastal ecosystems of Puerto Rico. We also seek to address related questions as part of developing partnerships with local governmental agencies, non-profits, and community groups. Please contact Dr. Courtney (travis.courtney@upr.edu) to discuss any potential collaborations and click below to learn more about our current projects."
+description: "We work on a range of projects at the intersection of marine biogeochemistry and ecology with an emphasis on the coastal systems of Puerto Rico. We also seek to address related questions as part of developing partnerships with local governmental agencies, non-profits, and community groups. Please contact Dr. Courtney (travis.courtney@upr.edu) to discuss any potential collaborations, access our papers [here](https://scholar.google.com/citations?hl=en&user=hK_DxtUAAAAJ), and click below to learn more about our current and ongoing projects."
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false
