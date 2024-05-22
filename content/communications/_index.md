@@ -1,6 +1,6 @@
 ---
 title: Communications
-description: "Please contact us if you are interested in potential collaborations or opportunities to join our lab group as a graduate student or postdoc on our expanding range of research projects."
+description: "Please click below for more detailed contact information, a complete list of research publications, and outreach materials and press releases from our research group."
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
