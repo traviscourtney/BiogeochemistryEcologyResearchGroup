@@ -1,7 +1,7 @@
 ---
-title: "Restoring Wave Attenuation"
+title: "Coral Reef Shoreline Protection"
 excerpt: "United States Geological Survey"
-date: 2024-05-01
+date: 2024-04-19
 show_author_byline: false
 show_post_date: false
 draft: false
