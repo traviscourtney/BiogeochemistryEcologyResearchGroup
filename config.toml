@@ -42,8 +42,6 @@ enableEmoji = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/berg_logo_black.png"
-  # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "tacourtne"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -97,10 +95,6 @@ enableEmoji = true
       icon      = "newspaper" 
       icon_pack = "far"
       url       = "https://scholar.google.com/citations?user=hK_DxtUAAAAJ&hl"
-  [[params.social]]
-      icon      = "twitter" 
-      icon_pack = "fab"
-      url       = "https://twitter.com/tacourtne"
   [[params.social]]
       icon      = "github" 
       icon_pack = "fab"

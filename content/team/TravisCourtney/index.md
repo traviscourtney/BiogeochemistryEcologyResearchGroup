@@ -25,10 +25,6 @@ links:
   icon_pack: far
   name: scholar
   url: https://scholar.google.com/citations?hl=en&user=hK_DxtUAAAAJ
-- icon: twitter
-  icon_pack: fab
-  name: twitter
-  url: https://twitter.com/tacourtne
 ---
 
 <div style="text-align: center;">
