@@ -21,6 +21,6 @@ links:
 
 <div style="text-align: justify;">
 
-Rivera-Ramos is co-advised by Dr. Andre Amador and is focusing on examining wave dissipation and bottom drag effects in a coral reef restoration area in La Parguera as part of a collaboration with USGS to determine how [coral restoration can be used to enhance shoreline protection](https://theberglab.com/research/restorationhydrodynamics/).
+Rivera-Ramos is co-advised by [Dr. Andre Amador](https://www.caose.io/team) and is focusing on examining wave dissipation and bottom drag effects in a coral reef restoration area in La Parguera as part of a collaboration with USGS to determine how [coral restoration can be used to enhance shoreline protection](https://theberglab.com/research/restorationhydrodynamics/).
 
 </div>
