@@ -1,5 +1,5 @@
 ---
-title: "Carla Mejías Rivera, M.S."
+title: "Carla Mejías Rivera, MS"
 subtitle: "(she/her/hers)"
 excerpt: "PhD Student"
 date: 2024-04-18

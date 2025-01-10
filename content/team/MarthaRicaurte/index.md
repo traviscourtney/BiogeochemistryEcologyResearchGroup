@@ -1,5 +1,5 @@
 ---
-title: "Dr. Martha Ricaurte"
+title: "Martha Ricaurte, PhD"
 subtitle: "(she/her/hers)"
 excerpt: "Lab Manager"
 date: 2024-04-19

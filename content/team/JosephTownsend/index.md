@@ -1,5 +1,5 @@
 ---
-title: "Joseph Townsend, M.S."
+title: "Joseph Townsend, MS"
 subtitle: "(he/him/él)"
 excerpt: "PhD Student"
 date: 2024-04-17
