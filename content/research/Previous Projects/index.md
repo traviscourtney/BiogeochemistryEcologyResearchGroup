@@ -1,5 +1,5 @@
 ---
-title: "Completed Projects"
+title: "Previously Funded Projects"
 excerpt: "Click to view our previously funded projects."
 date: 2023-04-17
 show_author_byline: false
