@@ -1,12 +1,14 @@
 ---
-title: "Seagrass Carbon Dynamics"
-excerpt: "EcoEléctrica Outreach Programs"
-date: 2024-04-17
+title: "Completed Projects"
+excerpt: "Click to view our previously funded projects."
+date: 2023-04-17
 show_author_byline: false
 show_post_date: false
 draft: false
 layout: single
 ---
+
+# Seagrass Carbon Dynamics
 
 <div style="text-align: center;">
 <img src="featured-hex.png" width="600"> 
