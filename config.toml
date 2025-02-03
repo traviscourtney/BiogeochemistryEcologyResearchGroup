@@ -108,20 +108,21 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
+    name = "About"
+    title = "About"
+    url = "/aboutus/"
+    weight = 1
+  [[menu.header]]
     name = "Team"
     title = "Team"
     url = "/team/"
-    weight = 1
+    weight = 2
   [[menu.header]]
     name = "Research"
     title = "Research"
     url = "/research/"
-    weight = 2
-  [[menu.header]]
-    name = "Communications"
-    title = "Communications"
-    url = "/communications/"
     weight = 3
+
     
   # Configure footer  
   [[menu.footer]]

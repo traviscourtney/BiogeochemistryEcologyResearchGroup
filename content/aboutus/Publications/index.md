@@ -12,4 +12,4 @@ layout: single
 </a>
 </div>
 
-Please access our papers on [Google Scholar](https://scholar.google.com/citations?hl=en&user=hK_DxtUAAAAJ) and contact Professor Courtney (travis.courtney@upr.edu) for copies of any publications not listed there.
+Please access our papers on [Google Scholar](https://scholar.google.com/citations?hl=en&user=hK_DxtUAAAAJ) and contact Professor Travis (travis.courtney@upr.edu) for copies of any publications not listed there.

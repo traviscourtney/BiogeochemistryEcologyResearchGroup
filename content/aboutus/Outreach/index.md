@@ -1,7 +1,7 @@
 ---
 title: Outreach
 excerpt: "Click to explore lesson plans and selected media."
-date: 2023-06-10
+date: 2023-06-9
 show_post_date: false
 layout: single
 ---

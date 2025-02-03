@@ -1,6 +1,6 @@
 ---
 title: Research Projects
-description: "We work on a range of projects at the intersection of marine biogeochemistry and ecology with an emphasis on the coastal systems of Puerto Rico and related questions of interest to local governmental agencies, non-profits, and community groups. Please contact Professor Courtney (travis.courtney@upr.edu) to discuss any potential collaborations, access our papers [here](https://scholar.google.com/citations?hl=en&user=hK_DxtUAAAAJ), and click below to learn more about our current and ongoing projects."
+description: "Click below to learn more about our current and ongoing projects."
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false

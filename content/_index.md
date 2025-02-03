@@ -8,8 +8,8 @@ images:
 show_action_link: false
 show_social_links: true
 text_align_left: false
-title: Biogeochemistry + Ecology Research Group
-subtitle: University of Puerto Rico Mayagüez
+title: the BERG lab
+subtitle: Biogeochemistry + Ecology Research Group
 type: home
 ---
 
