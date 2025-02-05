@@ -1,7 +1,7 @@
 ---
 title: "Lab Alumni"
 excerpt: "Previous Students and Staff"
-date: 2024-04-10
+date: 2021-04-10
 show_post_date: false
 draft: false
 tags:
