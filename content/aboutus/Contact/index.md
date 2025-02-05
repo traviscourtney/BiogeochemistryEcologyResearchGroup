@@ -35,6 +35,4 @@ University of Puerto Rico
 
 Road 304, La Parguera, PR 00667
 
-<img src="we_believe.png" width="600"> 
-
 </div>

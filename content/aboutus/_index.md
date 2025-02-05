@@ -1,10 +1,6 @@
 ---
 title: About
-description: "We are an interdisciplinary team of biogeochemists, ecosystem ecologists, and oceanographers in the [Department of Marine Sciences](https://www.uprm.edu/cima/) at the [University of Puerto Rico Mayagüez](https://www.uprm.edu/) researching how climate change and human impacts alter the functioning of marine ecosystems. We prioritize studies focused here on the coastal ecosystems of Puerto Rico and to address questions of interest to local governmental agencies, non-profits, and community groups. 
-
-Please contact Professor Travis (travis.courtney@upr.edu) to discuss any potential collaborations or to join our lab.
-
-"
+description: "Click below to learn more about the BERG lab."
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false

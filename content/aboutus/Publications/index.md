@@ -1,6 +1,6 @@
 ---
 title: Publications
-excerpt: "View our latest publications on Google Scholar."
+excerpt: "Click to view our latest publications on Google Scholar."
 date: 2023-06-10
 show_post_date: false
 layout: single
