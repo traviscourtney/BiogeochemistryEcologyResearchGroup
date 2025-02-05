@@ -1,5 +1,5 @@
 ---
-title: Research Projects
+title: Projects
 description: "Click below to learn more about our current and ongoing projects."
 show_post_thumbnail: true
 show_author_byline: false

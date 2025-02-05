@@ -118,9 +118,9 @@ enableEmoji = true
     url = "/team/"
     weight = 2
   [[menu.header]]
-    name = "Research"
-    title = "Research"
-    url = "/research/"
+    name = "Projects"
+    title = "Projects"
+    url = "/projects/"
     weight = 3
 
     
