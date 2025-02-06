@@ -21,6 +21,6 @@ links:
 
 <div style="text-align: justify;">
 
-Melendez-Declet will be working on quantifying the drivers of Ulva seaweed to optimize tropical seaweed cultivation strategies to support ongoing development of the Puerto Rico blue economy for her MS thesis.
+Melendez-Declet will be working on quantifying the drivers of [Ulva seaweed production](https://theberglab.com/projects/ulvaaquaculture/) to optimize tropical seaweed cultivation strategies to support ongoing development of the Puerto Rico blue economy for her MS thesis.
 
 </div>

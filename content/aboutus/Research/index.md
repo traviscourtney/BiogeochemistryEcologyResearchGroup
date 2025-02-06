@@ -30,3 +30,8 @@ Please visit our [Team](https://theberglab.com/team/) and [Projects](https://the
 Please contact Professor Travis (travis.courtney@upr.edu) to discuss any potential collaborations or to join our lab.
 
 </div>
+
+<div style="text-align: center;">
+<img src="we-believe.png" width="600"> 
+</a>
+</div>
