@@ -8,9 +8,9 @@ images:
 show_action_link: false
 show_social_links: true
 text_align_left: false
-title: the BERG lab
+title: theBERGlab
 subtitle: Biogeochemistry + Ecology Research Group
-description: We are an interdisciplinary team of biogeochemists, ecosystem ecologists, and oceanographers in the [Department of Marine Sciences](https://www.uprm.edu/cima/) at the [University of Puerto Rico Mayagüez](https://www.uprm.edu/) researching how climate change and human impacts alter the functioning of marine ecosystems.
+description: We are an interdisciplinary team in the [University of Puerto Rico Mayagüez](https://www.uprm.edu/) [Department of Marine Sciences](https://www.uprm.edu/cima/) researching how climate change and human impacts alter the functioning of marine ecosystems.
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /aboutus
