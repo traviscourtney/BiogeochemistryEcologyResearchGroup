@@ -13,7 +13,7 @@ layout: single
 
 <div style="text-align: justify;">
 
-We are an interdisciplinary team of biogeochemists, ecologists, physiologists, and oceanographers in the [Department of Marine Sciences](https://www.uprm.edu/cima/) at the [University of Puerto Rico Mayagüez](https://www.uprm.edu/) researching how climate change and human impacts alter the functioning of marine ecosystems. 
+We are an interdisciplinary team in the [Department of Marine Sciences](https://www.uprm.edu/cima/) at the [University of Puerto Rico Mayagüez](https://www.uprm.edu/) researching how climate change and human impacts alter the functioning of marine ecosystems. 
 
 While we currently work across a range of coastal ecosystems here in Puerto Rico, much of our research focuses on the quantifying the rates and drivers of the ecological function of coral reef building to better understand how environmental change affects the maintenance of coral reef structures and the ecosystem services those structures provide.
 

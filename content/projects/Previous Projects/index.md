@@ -8,9 +8,28 @@ draft: false
 layout: single
 ---
 
-# Seagrass Carbon Dynamics
+<div style="text-align: center;">
+
+# D-ENTERPRISE
+
+
+<img src="D-ENTERPRISE.png" width="600"> 
+</div>
+
+<div style="text-align: justify;">
+
+##### Co-PI: Dr. Travis Courtney, Dr. Andre Amador, and Dr. Johana Rotterová
+##### Funded by the Office of Naval Research
+
+The broader D-ENTERPRISE initiative aimed to increase diversity and inclusion in the ocean sciences through establishing a collaborative network of regional hubs between leading research universities and minority serving institutions complete with direct support and mentoring of students and faculty. Within this D-ENTERPRISE network, the Inclusion and Belonging in Ocean Science (IBOS) Collaborative was established between the University of Puerto Rico Mayagüez, University of Massachusetts Boston, and University of Rhode Island. The IBOS Collaborative supported annual cohorts of undergraduate and graduate students from underrepresented backgrounds in the ocean sciences with assistantships, mentored research opportunities, and monthly professional development.    
+
+</div>
 
 <div style="text-align: center;">
+
+# Seagrass Carbon Dynamics
+
+
 <img src="featured-hex.png" width="600"> 
 </div>
 
