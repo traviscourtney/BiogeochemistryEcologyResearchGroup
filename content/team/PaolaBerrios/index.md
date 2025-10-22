@@ -2,7 +2,7 @@
 title: "Paola Berrios Morales"
 subtitle: ""
 excerpt: "Undergraduate Student"
-date: 2024-04-10
+date: 2025-01-01
 show_post_date: false
 draft: false
 tags:

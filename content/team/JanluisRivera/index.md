@@ -2,7 +2,7 @@
 title: "Janluis Rivera-Ramos"
 subtitle: "(he/him/his)"
 excerpt: "MS Student"
-date: 2024-04-12
+date: 2024-08-01
 show_post_date: false
 draft: false
 tags:

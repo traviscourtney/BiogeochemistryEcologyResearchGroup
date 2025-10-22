@@ -2,7 +2,7 @@
 title: "Alejandra Aguilar Giraldo, MS"
 subtitle: "(ella/she/her)"
 excerpt: "PhD Student"
-date: 2024-04-16
+date: 2025-08-01
 show_post_date: false
 draft: false
 tags:

@@ -2,7 +2,7 @@
 title: "Travis Courtney, PhD"
 subtitle: "(he/him/his)"
 excerpt: "Principle Investigator"
-date: 2024-04-20
+date: 2030-01-01
 show_post_date: false
 draft: false
 tags:
