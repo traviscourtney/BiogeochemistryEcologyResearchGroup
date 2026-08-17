@@ -1,6 +1,6 @@
 ---
 title: Team
-description: "Click below to learn more about our team members."
+description: 
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false

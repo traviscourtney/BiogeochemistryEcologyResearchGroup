@@ -10,7 +10,41 @@ layout: single
 
 <div style="text-align: center;">
 
-# D-ENTERPRISE
+## Coral Reef Water Quality
+
+<img src="WaterQualitySampling.png" width="600"> 
+</div>
+
+<div style="text-align: justify;">
+
+##### Co-PI: Dr. JJ Cruz Motta & Dr. Travis Courtney
+##### Funded by the Puerto Rico Department of Natural and Environmental Resources
+
+We are monitored 42 coral reef sites around Puerto Rico for biogeochemistry, benthic communities, and fish communities to assess the potential drivers of coral reef condition as part of a project funded by the Puerto Rico Department of Natural and Environmental Resources. Please visit the [Caribbean Coral Reef Institute webpage](https://www.uprm.edu/ccri/research/water-quality-project/) for further details on our Puerto Rico Coral Reef Water Quality Monitoring Project funded by the Puerto Rico Department of Natural and Environmental Resources.
+
+</div>
+
+
+<div style="text-align: center;">
+
+## Deep Sea Structural Complexity
+
+<img src="DeepSeaStructures.png" width="600"> 
+</div>
+
+<div style="text-align: justify;">
+
+##### PI: Dr. Travis Courtney
+##### Funded by the Office of Naval Research
+
+We collected imagery aboard the [Nautilus Live Cruise NA156 Ocean Exploration through Advanced Imaging ](https://nautiluslive.org/cruise/na156) using next-generation cameras aboard the ROV Hercules and are are developing 3D digital elevation models using structure from motion technology to explore the structural complexity of deep sea coral beds in Hawai'i.
+
+</div>
+
+
+<div style="text-align: center;">
+
+## D-ENTERPRISE
 
 
 <img src="D-ENTERPRISE.png" width="600"> 
@@ -27,7 +61,7 @@ The broader D-ENTERPRISE initiative aimed to increase diversity and inclusion in
 
 <div style="text-align: center;">
 
-# Seagrass Carbon Dynamics
+## Seagrass Carbon Dynamics
 
 
 <img src="featured-hex.png" width="600"> 

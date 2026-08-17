@@ -10,6 +10,54 @@ layout: single
 ---
 
 <div style="text-align: center;">
+<img src="JanluisRivera.png" width="450"> 
+
+
+#### Janluis Rivera Ramos
+#### (he/him/his)
+#### MS Degree - 2026
+
+</div>
+
+<div style="text-align: justify;">
+
+Rivera-Ramos was co-advised by [Dr. Andre Amador](https://www.caose.io/team) and examined wave dissipation and bottom drag effects in a coral reef restoration area in La Parguera as part of a collaboration with USGS to determine how [coral restoration can be used to enhance shoreline protection](https://theberglab.com/projects/restorationhydrodynamics/).
+
+</div>
+
+
+<div style="text-align: center;">
+<img src="CarolinaMelendez.png" width="450"> 
+
+#### Carolina Melendez Declet
+#### (she/her/hers)
+#### MS Degree - 2026
+
+</div>
+
+<div style="text-align: justify;">
+
+Melendez-Declet developed an Integrated Multitrophic Aquaculture system to cultivate [Ulva seaweed](https://theberglab.com/projects/ulvaaquaculture/) with mithrax crabs as part of efforts to support the ongoing development of the Puerto Rico blue economy for her MS thesis.
+
+</div>
+
+<div style="text-align: center;">
+<img src="PaolaBerrios.png" width="450"> 
+
+#### Paola Berrios Morales
+#### (she/her/hers)
+#### Undergraduate Researcher - 2025-2026
+
+</div>
+
+<div style="text-align: justify;">
+
+Berrios Morales worked on our coral reef benthic image segmentation team to quantify how coral reef restoration impacts coral reef health.
+
+</div>
+
+
+<div style="text-align: center;">
 <img src="MarthaRicaurte.png" width="450"> 
 
 #### Dr. Martha Ricaurte

@@ -1,7 +1,7 @@
 ---
 title: "Joseph Townsend, MS"
 subtitle: "(he/him/él)"
-excerpt: "PhD Student"
+excerpt: "PhD Candidate"
 date: 2023-08-01
 show_post_date: false
 draft: false
