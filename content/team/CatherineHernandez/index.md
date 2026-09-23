@@ -2,6 +2,7 @@
 title: "Catherine Hernández Rodriguez, MS"
 excerpt: "Research Technician"
 date: 2025-06-01
+weight: 7
 show_post_date: false
 draft: false
 tags:

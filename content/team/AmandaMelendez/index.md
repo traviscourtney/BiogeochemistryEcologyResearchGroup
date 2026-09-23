@@ -3,6 +3,7 @@ title: "Amanda Meléndez-Pérez"
 subtitle: "(she/her/hers)"
 excerpt: "MS Student"
 date: 2025-08-01
+weight: 4
 show_post_date: false
 draft: false
 tags:

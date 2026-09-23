@@ -7,7 +7,7 @@
   </section>
   <section class="blog-content mw7 center">
     {{ $caller := . }}
-    {{ $paginator := .Paginate .Pages.ByDate }}
+    {{ $paginator := .Paginate .Pages.ByWeight }}
       {{ range $paginator.Pages }}
         {{ .Scratch.Set "$root" $caller }}
         {{ partial "shared/summary" . }}

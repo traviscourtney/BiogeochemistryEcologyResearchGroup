@@ -3,6 +3,7 @@ title: "Josué Pérez Narváez"
 subtitle: "(he/him/his)"
 excerpt: "MS Student"
 date: 2026-08-01
+weight: 5
 show_post_date: false
 draft: false
 tags:

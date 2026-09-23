@@ -3,6 +3,7 @@ title: "Ariana Negron Pacheco"
 subtitle: ""
 excerpt: "Undergraduate Student"
 date: 2025-01-01
+weight: 6
 show_post_date: false
 draft: false
 tags:

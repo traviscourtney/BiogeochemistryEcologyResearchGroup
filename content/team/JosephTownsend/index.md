@@ -3,6 +3,7 @@ title: "Joseph Townsend, MS"
 subtitle: "(he/him/él)"
 excerpt: "PhD Candidate"
 date: 2023-08-01
+weight: 2
 show_post_date: false
 draft: false
 tags:

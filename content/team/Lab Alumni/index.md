@@ -2,6 +2,7 @@
 title: "Lab Alumni"
 excerpt: "Previous Students and Staff"
 date: 2026-09-10
+weight: 8
 show_post_date: false
 draft: false
 tags:
