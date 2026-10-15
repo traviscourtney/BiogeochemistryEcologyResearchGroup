@@ -105,3 +105,54 @@ main h1.f2 {
 .hero-body h1 {
   font-size: 2.25rem !important;
 }
+
+/* Center text and elements inside cards on the /team/ grid page */
+.project-content,
+.card-body,
+article.project-card,
+.list-grid article {
+  text-align: center !important;
+}
+
+/* Ensure images and button/link containers are centered inside the card */
+article img,
+.card-header img,
+.project-card img {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  display: block !important;
+}
+
+/* Center button/link lists under card titles */
+.project-links,
+.card-footer {
+  justify-content: center !important;
+  text-align: center !important;
+}
+
+/* Forcefully center the entire header content area on individual team/project pages */
+main[role="main"] article > header,
+main article > header,
+article > header {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  text-align: center !important;
+}
+
+/* Ensure the heading, subtitle/pronouns, and paragraph text are explicitly centered */
+article > header h1,
+article > header h4,
+article > header p {
+  text-align: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Center the container holding the social/contact links right below the header */
+article > header > div {
+  display: flex !important;
+  justify-content: center !important;
+  text-align: center !important;
+  width: 100% !important;
+}
