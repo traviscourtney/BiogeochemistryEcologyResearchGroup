@@ -91,3 +91,17 @@ header.page-header p,
 .home .social-links i {
   margin: auto !important;
 }
+
+/* Target the About page title specifically by its slug/wrapper or general page headings */
+.about h1,
+body.about-page h1,
+main h1.f1, 
+main h1.f2 {
+  font-size: 3rem !important; /* Adjust this value as desired */
+}
+
+/* Fallback: Universal override for main content titles if the class differs */
+.site-content h1, 
+.hero-body h1 {
+  font-size: 2.25rem !important;
+}

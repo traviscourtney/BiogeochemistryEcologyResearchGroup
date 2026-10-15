@@ -22,7 +22,7 @@ links:
 - icon: user 
   icon_pack: fas
   name: cv
-  url: https://github.com/traviscourtney/BiogeochemistryEcologyResearchGroup/raw/main/content/aboutus/TravisCourtneyCV.pdf
+  url: https://github.com/traviscourtney/BiogeochemistryEcologyResearchGroup/raw/main/content/about/TravisCourtneyCV.pdf
 - icon: newspaper
   icon_pack: far
   name: scholar
