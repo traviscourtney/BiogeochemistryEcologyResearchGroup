@@ -33,7 +33,7 @@ enableEmoji = true
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/berg_logo_black.png"
   logo = "/img/berg_logo_black.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["about", "team", "projects", "communications"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -42,7 +42,7 @@ enableEmoji = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/berg_logo_black.png"
-  
+
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
@@ -53,7 +53,7 @@ enableEmoji = true
   # the custom scss file must be in the assets/ folder
   # add the filename name here, without extension
   # to use hex colors instead of named tachyons colors, include "hex" in filename
-  custom_theme = "" 
+  custom_theme = "custom.scss"
   
   # use an embedded font-family
   # serif options: Fraunces / EB Garamond / Bitter
@@ -110,7 +110,7 @@ enableEmoji = true
   [[menu.header]]
     name = "About"
     title = "About"
-    url = "/aboutus/"
+    url = "/about/"
     weight = 1
   [[menu.header]]
     name = "Team"
@@ -122,6 +122,11 @@ enableEmoji = true
     title = "Projects"
     url = "/projects/"
     weight = 3
+  [[menu.header]]
+    name = "Communications"
+    title = "Communications"
+    url = "/communications/"
+    weight = 4
 
     
   # Configure footer  

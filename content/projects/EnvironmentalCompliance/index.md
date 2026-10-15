@@ -1,6 +1,6 @@
 ---
 title: "Environmental Compliance"
-excerpt: "EcoEléctrica and DNA Environment LLC"
+excerpt: "Students are monitoring the intake and outfall of the EcoEléctrica power plant for regulatory compliance"
 date: 2024-04-15
 show_author_byline: false
 show_post_date: false

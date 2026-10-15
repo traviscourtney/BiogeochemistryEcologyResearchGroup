@@ -1,6 +1,6 @@
 ---
 title: "Coral Reef Shoreline Protection"
-excerpt: "United States Geological Survey"
+excerpt: "Developing nearshore models of coral reef wave attenuation to quantify shoreline protection by coral reef restoration"
 date: 2024-04-19
 show_author_byline: false
 show_post_date: false

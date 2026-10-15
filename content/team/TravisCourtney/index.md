@@ -4,6 +4,7 @@ subtitle: "(he/him/his)"
 excerpt: "Principle Investigator"
 date: 2021-07-01
 weight: 1
+featured: true
 show_post_date: false
 draft: false
 tags:

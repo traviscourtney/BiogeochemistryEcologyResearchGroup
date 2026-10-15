@@ -1,6 +1,6 @@
 ---
 title: "Coral Reef Elevation Changes"
-excerpt: "Office of Naval Research"
+excerpt: "Quantifying high-resolution changes in coral reef elevation and attributing those changes to benthic communities"
 date: 2024-09-01
 show_author_byline: false
 show_post_date: false

@@ -1,1 +1,93 @@
 // Override this file to add your own SCSS styling.
+
+/* Center all page titles and header headers globally */
+header.page-header,
+.page-header,
+.post-header,
+.about-header,
+h1.f1, h1.f2, h1.f-headline {
+  text-align: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Ensure subtitle / description text below titles is also centered */
+header.page-header p,
+.page-header p,
+.page-header .subtitle {
+  text-align: center !important;
+}
+
+/* 1. Center text and headings on the hero homepage */
+.home .hero-content,
+.home section.hero {
+  text-align: center !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.home h1,
+.home h2,
+.home p {
+  text-align: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* 2. Center the social/contact icons container */
+.home .social-icons,
+.home ul.social-icons,
+.home .pa0.ma0.list.flex {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  flex-wrap: wrap !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 0 !important;
+}
+
+/* Ensure individual icon items align nicely when centered */
+.home .social-icons li,
+.home ul.social-icons li {
+  margin-left: 0.5rem !important;
+  margin-right: 0.5rem !important;
+}
+
+/* --------------------------------------------------
+   Center Hero Homepage Social Icons Specifically
+   -------------------------------------------------- */
+
+/* 1. Target the social links wrapper on the home hero section */
+.home .social-icon,
+.home .social-icons,
+.home div.social-links,
+.home div.social-links p,
+.home div.social-links ul {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  text-align: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 0 !important;
+  width: 100% !important;
+}
+
+/* 2. Ensure anchor tag links and inline svg/i elements align in center */
+.home .social-links a,
+.home .social-icons a,
+.home a.social-icon {
+  display: inline-flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  margin: 0 0.4rem !important; /* Space between icons */
+  text-align: center !important;
+}
+
+/* 3. Handle SVG or FontAwesome icon sizing and alignment */
+.home .social-links svg,
+.home .social-icons svg,
+.home .social-links i {
+  margin: auto !important;
+}

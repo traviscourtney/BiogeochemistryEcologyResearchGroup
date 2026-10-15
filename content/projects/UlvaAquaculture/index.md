@@ -1,6 +1,6 @@
 ---
 title: "Ulva Seaweed Aquaculture"
-excerpt: "Puerto Rico Sea Grant"
+excerpt: "Growing Ulva seaweed using integrated multi-trophic aquaculture systems to provide food for sea urchin aquaculture and local restaurants"
 date: 2024-04-17
 show_author_byline: false
 show_post_date: false

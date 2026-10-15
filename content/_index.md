@@ -10,10 +10,10 @@ show_social_links: true
 text_align_left: false
 title: Biogeochemistry + Ecology Research Group
 subtitle: University of Puerto Rico Mayagüez
-description: We are an interdisciplinary team researching how changing climate and water quality alter the functioning of marine ecosystems.
-show_social_links: true # specify social accounts in site config
+description: We are an interdisciplinary team researching how changing climate and water quality alter the functioning of marine ecosystems
+show_social_links: false # specify social accounts in site config
 show_action_link: true
-action_link: /aboutus
+action_link: /about
 action_label: "Read More &rarr;"
 type: home
 ---
