@@ -74,4 +74,6 @@ The following lesson plans were developed for K-12 teachers as part of the Scien
 ##### Biogeochemistry + Ecology Research Group in the News
 [An Interview with Dr. Travis Courtney – Marine Chemist and PLOS Author](https://everyone.plos.org/2022/01/27/an-interview-with-dr-travis-courtney-marine-chemist-and-plos-author/)
 
-[Sloan Research Fellowship awarded to Dr. Travis Courtney](https://www.uprm.edu/portada/2024/03/01/catedraticodecienciasmarinasrecibelabecasloan/)
+[Sloan Research Fellowship awarded to Dr. Travis Courtney](https://www.upr.edu/catedratico-de-ciencias-marinas-del-rum-recibe-la-beca-de-investigacion-sloan/)
+
+[BERG Lab Student Amanda Melendez awarded NSF Graduate Research Fellowship](https://www.uprm.edu/portada/2026/05/29/trescolegialesgananbecansfgrfp/)
