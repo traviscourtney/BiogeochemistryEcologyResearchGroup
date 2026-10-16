@@ -76,4 +76,4 @@ The following lesson plans were developed for K-12 teachers as part of the Scien
 
 [Sloan Research Fellowship awarded to Dr. Travis Courtney](https://www.upr.edu/catedratico-de-ciencias-marinas-del-rum-recibe-la-beca-de-investigacion-sloan/)
 
-[BERG Lab Student Amanda Melendez awarded NSF Graduate Research Fellowship](https://www.uprm.edu/portada/2026/05/29/trescolegialesgananbecansfgrfp/)
+[BERG Lab Student Amanda Meléndez-Pérez awarded NSF Graduate Research Fellowship](https://www.uprm.edu/portada/2026/05/29/trescolegialesgananbecansfgrfp/)
