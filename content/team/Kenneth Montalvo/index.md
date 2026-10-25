@@ -1,6 +1,6 @@
 ---
 title: "Kenneth Montalvo Negron"
-subtitle: ""
+subtitle: "(he/him/his)"
 excerpt: "MS Student"
 date: 2026-08-01
 weight: 5
