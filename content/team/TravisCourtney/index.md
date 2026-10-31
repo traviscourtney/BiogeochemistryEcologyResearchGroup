@@ -25,7 +25,7 @@ links:
   url: https://github.com/traviscourtney/BiogeochemistryEcologyResearchGroup/raw/main/content/about/TravisCourtneyCV.pdf
 - icon: newspaper
   icon_pack: far
-  name: scholar
+  name: google scholar
   url: https://scholar.google.com/citations?hl=en&user=hK_DxtUAAAAJ
 ---
 

@@ -123,10 +123,15 @@ enableEmoji = true
     url = "/projects/"
     weight = 3
   [[menu.header]]
+    name = "Publications"
+    title = "Publications"
+    url = "/publications/"
+    weight = 4
+  [[menu.header]]
     name = "Communications"
     title = "Communications"
     url = "/communications/"
-    weight = 4
+    weight = 5
 
     
   # Configure footer  

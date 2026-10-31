@@ -18,7 +18,7 @@ links:
   url: https://github.com/traviscourtney/BiogeochemistryEcologyResearchGroup/raw/main/content/about/TravisCourtneyCV.pdf
 - icon: newspaper
   icon_pack: far
-  name: scholar
+  name: google scholar
   url: https://scholar.google.com/citations?hl=en&user=hK_DxtUAAAAJ
 ---
 
@@ -33,22 +33,6 @@ links:
 <div style="text-align: justify;">
 
 We are nearly always looking for new ways to understand our changing coastal ecosystems through new collaborations and mentoring new students and postdocs. Please email [Professor Travis](mailto:travis.courtney@upr.edu) to discuss potential collaborations or to join our lab. 
-
-</div>
-
-<div style="text-align: center;">
-
-#### Publications
-
-
-<a href="https://scholar.google.com/citations?hl=en&user=hK_DxtUAAAAJ">
-<img src="google_scholar.png" width="300"> 
-</a>
-</div>
-
-<div style="text-align: justify;">
-
-Please see our full list of papers on [Google Scholar](https://scholar.google.com/citations?hl=en&user=hK_DxtUAAAAJ) and email [Professor Travis](mailto:travis.courtney@upr.edu) for copies of any publications listed there.
 
 </div>
 
