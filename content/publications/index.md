@@ -39,9 +39,9 @@ Cornwall CE, Timmerman O, Andersson A, Berbece DM, Branson O, Comeau S, **Courtn
 
 <u>Rodríguez Hernández C</u>, Reyes JC, Perez DI, Gonzalez-Corredor J, Krause JR, Campbell JE, Fourqurean JW, Cruz Motta JJ, **Courtney TA**. 2026. Influence of Environmental Factors on pH Buffering, Productivity, and Blue Carbon Storage in Contrasting Thalassia testudinum Seagrass Meadows in La Parguera, Puerto Rico. Estuaries and Coasts 49(40). https://doi.org/10.1007/s12237-025-01652-8
 
-#### 2025
-
 <u>Mejias-Rivera CL</u>, <u>Ricaurte-Chica M</u>, <u>Carballeira-Martínez J</u>, Hernández WJ, Armstrong RA, Cruz-Motta JJ, **Courtney TA**. 2026. Assessment of Coral Reef Eutrophication Thresholds Across Puerto Rico Using In-situ and Satellite-derived Chlorophyll-a. Estuaries and Coasts 49(26). https://doi.org/10.1007/s12237-025-01644-8 
+
+#### 2025
 
 <u>Martinez Ortiz J</u>, Perez Perez J, Armstrong RA, Cruz Motta JJ, **Courtney TA**. 2025. Hypoxia driven by Caribbean Sargassum accumulation events. Royal Society Open Science 12(8):250322. https://doi.org/10.1098/rsos.250322
 
