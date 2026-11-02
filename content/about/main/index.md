@@ -8,7 +8,7 @@ show_intro: true
 intro: |
   <div style="text-align: justify;">
   
-  We are broadly interested in how changing climate and water quality alter the functioning of marine ecosystems with an emphasis on the maintenance of coral reef structures and the ecosystem services those structures provide.
+  We are broadly interested in how changing climate and water quality alter the functioning of marine ecosystems with an emphasis on the maintenance of coral reef structures and the ecosystem services those structures provide. 
   
   We also prioritize questions of interest to local governmental agencies, non-profits, and community groups in Puerto Rico including collaborating with the non-profit [ISER Caribe](https://www.isercaribe.org/) on a range of projects relating to [coral reef restoration](https://theberglab.com/projects/restorationmonitoring/) and [optimizing Ulva seaweed aquaculture](https://theberglab.com/projects/ulvaaquaculture/), the [Puerto Rico Department of Natural and Environmental Resources](https://www.drna.pr.gov/) on [water quality impacts on coral reefs](https://theberglab.com/projects/waterqualitymonitoring/), and supporting students to lead environmental compliance monitoring of the [EcoEléctrica power plant ](https://theberglab.com/projects/environmentalcompliance/).
   
