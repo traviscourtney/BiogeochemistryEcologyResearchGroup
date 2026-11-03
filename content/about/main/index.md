@@ -14,7 +14,7 @@ intro: |
   
    We also make publicly available tools to support research, management, and conservation efforts including integrating [area-normalized carbonate production rates](https://github.com/traviscourtney/CoralNetCalcificationRatesV2) into the benthic image annotation software [CoralNet](https://coralnet.ucsd.edu/) to automatically estimate coral reef growth from images, [salinity normalizing total alkalinity data to determine if coral reefs are net calcifying](https://doi.org/10.5281/zenodo.7051628), and [modeling the bioerosion potential of restored <i>Diadema antillarum</i> sea urchin populations](https://doi.org/10.1111/rec.70302).
    
-   Our group is nearly always looking for new ways to understand our changing coastal ecosystems through new collaborations and mentoring new students and postdocs. Please email [Professor Travis](mailto:travis.courtney@upr.edu) to discuss potential collaborations or to join our lab.
+   Please email [Professor Travis](mailto:travis.courtney@upr.edu) to discuss potential collaborations or to join our lab as a student or postdoc.
   
   </div>
 show_outro: false
