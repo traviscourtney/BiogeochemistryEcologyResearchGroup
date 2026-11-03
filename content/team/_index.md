@@ -1,6 +1,6 @@
 ---
 title: Team
-description:
+description: 
 type: project
 layout: list-grid
 

@@ -1,5 +1,5 @@
 ---
-title: Communications
+title: Outreach
 date: 2023-06-8
 show_post_date: false
 layout: single
@@ -23,29 +23,12 @@ links:
 ---
 
 <div style="text-align: center;">
-
-#### Contact Us
-
-<img src="we-believe.png" width="600">  
-
-</div>
-
-<div style="text-align: justify;">
-
-We are nearly always looking for new ways to understand our changing coastal ecosystems through new collaborations and mentoring new students and postdocs. Please email [Professor Travis](mailto:travis.courtney@upr.edu) to discuss potential collaborations or to join our lab. 
-
-</div>
-
-<div style="text-align: center;">
-
-##### Outreach
-
-<img src="rueda_ballard.png" width="600"> 
+<img src="we-believe.png" width="600"> 
 </div>
 
 ##### Videos and Media
 
-[Ocean Exploration and Opportunities with Dr. Bob Ballard](https://www.youtube.com/watch?v=G9pe2rmXn1o)
+{{< youtube G9pe2rmXn1o >}}
 
 ##### Lesson Plans for K-12 Teachers
 

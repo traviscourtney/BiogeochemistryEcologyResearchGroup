@@ -128,9 +128,9 @@ enableEmoji = true
     url = "/publications/"
     weight = 4
   [[menu.header]]
-    name = "Communications"
-    title = "Communications"
-    url = "/communications/"
+    name = "Outreach"
+    title = "Outreach"
+    url = "/outreach/"
     weight = 5
 
     
